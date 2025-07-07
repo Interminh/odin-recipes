@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+}
+
+.list {
+    display: inline;
+    text-align: center;
+}
+
+#mainimg {
+    display: block;
+    margin: 50px auto;
+}
